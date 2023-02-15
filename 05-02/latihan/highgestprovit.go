@@ -48,3 +48,5 @@ func main() {
 	C := []int{}
 	fmt.Println(Soort(C))
 }
+
+tEST
